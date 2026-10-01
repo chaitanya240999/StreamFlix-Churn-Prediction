@@ -88,4 +88,3 @@ jupyter notebook streamflix_churn_prediction_.ipynb   # prediction + evaluation
 python churn_segmentation.py                          # segmentation
 The data is loaded directly from the course repository URL in the notebook.
 
-Files
